@@ -15,6 +15,7 @@
     "eslint": "^8.39.0"
   },
   "dependencies": {
-    "changes-stream": "^2.2.0"
+    "changes-stream": "^2.2.0",
+    "rock-req": "^5.1.1"
   }
 }
